@@ -1,7 +1,10 @@
 # Think41_Assessment
+
 #e-commerce products Database setup
+
 ##Task
 Import product data from a csv file into an SQLite database using SQL.
+
 ##Steps Followed
 1. Created `products` table using SQL script.
 2. Loaded `Product.csv` using DB Browser for SQLite
